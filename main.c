@@ -1,3 +1,11 @@
+//Chrystel Geno
+//Lab 1
+//Ahmed - CS1 Summer 2024
+
+//The purpose of this project is to take C classes and N students assigned to those classes,
+//collect all relevant scores and compare amongst all classes and all students to see who had
+//the highest score. Includes concepts like DMA and Memory Leak verification.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "leak_detector_c.h"
